@@ -13,12 +13,16 @@ body{
 .container{
    padding-left: 1rem;
    padding-right: 1rem;
+   margin: auto;
   
 }  
 
 .container-center{
     max-width: 600px;
     
+   
+}
+.container-margin{
     margin-bottom: 100px;
 }
 .preview-image{
