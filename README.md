@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Technologies-HTML--CSS-orange)
-# | Porfolio Web Page
+# | Portfolio Web Page
 Hi there,
 I'm Wasit Ali and this is my portfolio web page purely made with HTML and CSS. You can find my projects as well as blogs here.
 
